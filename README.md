@@ -47,5 +47,5 @@ pip install pillow
 **3. Running the Application**
   - Run the application using:
 ```python
-python quizzo.py
+python quiz.py
 ```
